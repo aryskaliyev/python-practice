@@ -2,6 +2,7 @@ python-practice repo is for practicing python concepts and topics from tutorials
 
 Concepts:
 * closures;
+* decorators;
 * first-class functions;
 * generators;
 * iterators & iterables;
