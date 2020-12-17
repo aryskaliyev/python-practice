@@ -8,5 +8,6 @@ Concepts:
 * first-class functions;
 * generators;
 * iterators & iterables;
+* multiprocessing;
 * object-oriented programming;
 * threading.
