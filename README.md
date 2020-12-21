@@ -10,4 +10,5 @@ Concepts:
 * iterators & iterables;
 * multiprocessing;
 * object-oriented programming;
-* threading.
+* threading;
+* unit testing..
